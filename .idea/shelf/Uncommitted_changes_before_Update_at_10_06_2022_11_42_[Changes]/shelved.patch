@@ -1,0 +1,15 @@
+Index: app/src/main/java/com/example/vepay_go_md/API/APIConfig.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/java/com/example/vepay_go_md/API/APIConfig.kt b/app/src/main/java/com/example/vepay_go_md/API/APIConfig.kt
+new file mode 100644
+--- /dev/null	(date 1654836082131)
++++ b/app/src/main/java/com/example/vepay_go_md/API/APIConfig.kt	(date 1654836082131)
+@@ -0,0 +1,4 @@
++package com.example.vepay_go_md.API
++
++class APIConfig {
++}
+\ No newline at end of file

@@ -1,0 +1,1154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a44747a4-0595-46f8-b24c-bc2b33776d5a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/assetWizardSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_activity_activity_1_2_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_annotation_annotation_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_4_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_4_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_browser_browser_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_collection_collection_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_1_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_core_core_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_core_core_ktx_1_8_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_customview_customview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_databinding_viewbinding_7_2_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_dynamicanimation_dynamicanimation_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_fragment_fragment_1_3_6_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_4_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_ktx_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_ktx_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_ktx_2_4_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_savedstate_2_3_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_core_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_3_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_monitor_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_runner_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_test_services_storage_1_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_tracing_tracing_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_github_bumptech_glide_annotations_4_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_github_bumptech_glide_disklrucache_4_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_github_bumptech_glide_gifdecoder_4_13_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_github_bumptech_glide_glide_4_13_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_datatransport_transport_api_3_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_datatransport_transport_backend_cct_3_1_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_datatransport_transport_runtime_3_1_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_17_4_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_base_18_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_cloud_messaging_17_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_api_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_impl_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_sdk_api_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_safetynet_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_17_0_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_18_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_android_material_material_1_6_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_21_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_annotations_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_appcheck_interop_16_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_auth_21_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_auth_interop_20_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_auth_ktx_21_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_common_20_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_common_ktx_20_1_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_components_17_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_database_collection_18_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_datatransport_18_1_4_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_17_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_json_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_encoders_proto_16_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_firestore_24_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_firestore_ktx_24_1_2_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_17_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_installations_17_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_installations_interop_17_0_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_19_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_23_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_firebase_messaging_ktx_23_0_5_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_firebase_protolite_well_known_types_18_0_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_guava_guava_30_1_1_android.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_google_protobuf_protobuf_javalite_3_19_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_okhttp3_logging_interceptor_4_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_4_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_okhttp_okhttp_2_7_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_okio_okio_2_8_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_retrofit2_converter_gson_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__com_squareup_retrofit2_retrofit_2_9_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__de_hdodenhof_circleimageview_3_1_0_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_android_1_44_1_aar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_api_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_context_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_core_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_okhttp_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_protobuf_lite_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__io_grpc_grpc_stub_1_44_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__junit_junit_4_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_android_extensions_runtime_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_parcelize_runtime_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_android_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/libraries/Gradle__org_jetbrains_kotlinx_kotlinx_coroutines_core_jvm_1_5_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/modules/Capstone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/modules/app/Capstone.app.androidTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/modules/app/Capstone.app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/modules/app/Capstone.app.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/modules/app/Capstone.app.unitTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/ActivityDashboardBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/ActivityLogin2Binding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/ActivityMainBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/ActivityProfilBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/ActivityRegisterBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/NotificationBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/data_binding_base_class_source_out/debug/out/com/example/capstone/databinding/PartialDashboardBinding.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/res/google-services/debug/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/generated/source/buildConfig/debug/com/example/capstone/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/apk/debug/app-debug.apk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/apk/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/apk_ide_redirect_file/debug/redirect.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/app_metadata/debug/app-metadata.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/compatible_screen_manifest/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_base_class_log_artifact/debug/out/com.example.capstone-binding_classes.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_dashboard-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_login2-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_main-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_profil-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/activity_register-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/notification-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_merge/debug/out/partial_dashboard-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/activity_dashboard-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/activity_login2-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/activity_main-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/activity_profil-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/activity_register-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/notification-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/data_binding_layout_info_type_package/debug/out/partial_dashboard-layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_0/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_1/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_2/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_3/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_4/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/dirs_bucket_5/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_0/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_1/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_2/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_3/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_4/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/desugar_graph/debug/out/currentProject/jar_b6e2078974edefa2ec934df05a1f4275edcf44d9d65f69f1fec6308972aceaaf_bucket_5/graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeExtDexDebug/classes3.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeProjectDexDebug/14/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/dex_number_of_buckets_file/debug/out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/dataBindingGenBaseClassesDebug/base_builder_log.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+AotJjBgteP3Vq46F4txJRfWDM4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/+fnc5NfgUkpqDiX1UoaHbhafnQA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0BWjcWUL7pVV5Y5XUoO37kHInO4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0EYSrqK5ucEjFG6OsNbJBC1LWbw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0QBIywcK8JjFmsoGdZwALeBezmg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/1sVCxD0A44mqPzd6uki_2XIT93w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/2okkrIqdp2qoT6y3qlsa0fIDhT0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/34oa7bmYFXe6cyh_sEJuV03EQx8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3AgGaeYIKNXSVMxfiOypehm4WtQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3OFo5NOh6Jg2kxlE5j5wNHVWqNU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3SiiWGjSCfFnAEK_ULajhklmLvI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3sqXpS0MdRXrsSzqnZ8l_QJZjRE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4T2PQTr0nD+FcVJ5UfCX+DWsJcQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4kTPaQ+VFAlBlgEYvi3t0otePI0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/4yhsQkeS8v2ppDSJUQwC2fTjA3k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/55lL+HTbj8W_co4DVFcHKBTYkr4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5LXKPojpctLcQKFErGM3KYcWNCM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5WorKbHo4Eqw5TJJCmK7dR461Yc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5mdp7AueRbgPOPdRFISEGIpww00=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/5uhV8uPEDJJqvtm8x4j64nY36BY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/6T2hggu1foMLDRZJJIsJLPcUq+E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/7pPmtyy8x91cCQYRfuv2y0pDfwE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/87C43j20Nd1Pl1sRCbKmtZ3J00E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/8hPf6PLxoNd9D1hTxGNR9scStyg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9IGuzKCgL4u3tuQDs7BsPMMOWU0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/9lqQWHM1YiU3EKYvEf8KHYpUJak=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AKMNhEbu3Du7x_6WBPh5LTNo6zY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/C2GUL9kTAp_N1QQBTEW5RGHU58E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/CQaPt8KGN1FvnsNba+FdyiKKSQ8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/D3jOWxk7BI+1ZPqG4GEfFutNLeM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/DGKwuCJl6nFVzk5eeF7TlD1q3ks=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Fa0A_NWu8+6iQKq8bHAf3cgHCz8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Fd9YRq+jeTNLWKFsR44cnuv0SEU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Fw4gid5eLttNhGNKNLbsqF8HwWA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/GP0LCUaHLFTLznVy93LnY3DMf4U=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Ghd4O+9OyRJzURZPzwj9rFKaik4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HZpFNRnlwoe7c+ioioiBlcwCECI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/HoSkjsu89hk5bxzGDz66AzQeq1Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/I7_pO7e9T3uHV5IjItuyYBXTlEU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/I7c4aRc71Yd5XV7LJkySC0nJd+s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/J6Ug+pM5kkHMfusdnuj4Z7pVSiU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JLhluJHtrrfGicQRTvE3SV6tA1A=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JLllsFt+s3uEtqYavokVmhhOgks=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/KT+a2DuVuzz6upyDJa1L0Zyx0J8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/L0yaRyU9t7hOSoHYij5pc4aW7To=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LBYjQSIc+c+nX0k+AJ+qRTb_0bo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LCkXtR6ir9ZnUKEoSpHbAoSjODE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/LwTYdkCH9IpFDwORSMo0hR1QP1Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/M1l2whYbI4Jnw6epfmm53hRzTyM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MNZjJgT1RWw1YuDHZl2SwmJC8w4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MePh2Ngncz5Ft0HmPWYiGEw3AfY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/MfSGL+BQgFH4ttLDib8MBmyuKoU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NBnkB_h_jlBQsWGKvjicdFDsuUw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NDfARlvT_3YRHqiJ6CUzPOYU9eY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NJLTbY3uUp9oLpUFicCnxfOLQqs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Nes9pFG7Dc3aSZEcGpEJmqK7H04=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/NhFkt_Ex1Ra9sgmROMvvOVDpVtM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Nm23AaagGuH5c8922O+rGq_zDTs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Nw7PJNLplup9+q7y5DPBmjr2_yI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/OKjSD04z8k87Av_k7rQjiOtD8ak=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/PL2dTkI8bdQRuH6AS01Sj5J8OTY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Pk2rH6UaBQ66WJxTG0Lzwt8F50A=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Qif+xvoERWLV9p0By45u7G7i5IA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/QoEbRxVaFz+1UuNFLgv4IDv8Q0E=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/T6Hag3yNLMrYgEWrfLZ4z6NCeBA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TVGPtnQz_7BQxT8pFwjkjmvFSfQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/TcmCrxCuhDC7FrtTAN0OgiVyjiA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UUuhBqPj0_l0PvR9Dvcb00Xm39Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/V40STEE7FIu_9Tdp0vOC7ejTnkM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VQ5g+VfkX_ynYgYJ1FkOjgXjUNE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/VxXXpNHq0HZVok0tgRo5yVyUxWU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/WquKZqf5DKmPzNwOcE4UGEZXHXk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/X+zKkZ0rduJY72LiBog7qsBFWQ8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XIL_ef4hTyc3EF8nZKokZ74s+xU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/XWMQd0EIDjSFw6oH4IHnn_pOH0A=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Xl9T19MEhv7g0zKlH52o0jMhldU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/Zxg3dT9rVlVte8mVYSduizM212Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/_jsyYUyA2z1IRjG+nGNY8PkLPb4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aKarAlzr9A5zQ76RYNgQYYCfehg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/aipykN_k7YiHHA1_p2PBtZRMaFI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/azEWCHGQ3dv1t8MA7NoYc2DcGD8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/b0yImq_kKb8bZ6lBA7av_ptkeoE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bEqHMwMHoRWZ3AyCWQmk8RJHm5s=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bGWUoPXTYft1vIv5qsyaCg4J8G8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bLVYmLyiFKQPWqgzRiT+ATIuMNE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/bVtcCQdLAsGuBNJI7IsM6THH1oo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ba9p6x9ZwCz1zdsB63cCZXCVKAs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/blobk37fRbHg3_7+nayKA2_oW5Q=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/c2dM2fSFXRXI2l1sG5Nh5GbnGQQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/cIRNhgCNh32Cefi87+32WaFR4Uo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d9xqcLMuHe7htdAQCkzTBNbqV0Y=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/dWU38KKTqcehEh_h3CX080z3Zqo=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/fT7zPau2WcUl7Paa61i9dNhcVag=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/g3ZFW+pxadH1lpi7cAWa0bEUNKk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/g7XbkZb5nZO25o8JtfCugekyUtA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/gKYdpT4Jh5_U5yPW4TQMvmP1PTk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/glpE17IGfKhP3GEcbKuD6wWRsXs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/hEuV_cssfScBm8oz4fH8N7T_qSM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/h_00KNEfIz6Knd1ToGgdSVzJ6rU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i6PkT0+_3i7RQGMCKoQpEggmQgY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/i807QB7snMttacESdJCrCzO_mlQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/irRWPNtNYG61+R0DreQExHUjkdE=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ivpotCZGnWCKFuE4ywc7vXwljsQ=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kDJgLiWqUc1bSdJ6cSk7CiXqFVY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kPuc+5_iXntZmbxLBZ_BkV5e1+o=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/kQc3sPFgPEYq7i5fJQEEewzqYFg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l3M1o34HPoHfh6c3UrqmDxhwmYs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/l69c6vAR5fRTMYb7mzM+jkMF+_w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/lYvAyunp5dsxlU73jMn4SEbSJVg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mEaQG7xZ5Hhhza2kHoAzE3au7SA=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/mQPUNoXWSu7ncvTDciohtBD_pws=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nEUJIxcoB+Muf3d2tMXe5JnSsqg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nRfIWkI_kqDH9puSkdBrYSyomfs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nz8NmcypQ20D95Ym2kGE34Fkvho=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/pMiMTwRHqn4jplFQ7lAd825z5cs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/s92_+p0RPhENrLTZRJQZZ7SgCGs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/svXwO49m13DYOID3R4BIjuNCS3k=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tES8VEXryH9s74veP2bSZOovxHY=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/tfYQIYA05nq2M2XvZgAG+4cjwYw=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/u9cKPwkLGJkWGezMK7+155K2dJg=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uLI6HCGYATNoN1lTETBSXqjsiQM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uQDnimDuUpE32sjMJh_fNdUQo0w=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uXEKDiHT9_h52JhC4KXBfT2uHn0=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uXNmGlfvH4hEnGy14CMJXkWt5qc=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/uyRilPlCPOK4TYYeWSUdSDbSgOk=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/vgd7eOqGi7k2NrjwAeNtTS+9bQI=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wGN6H9vCSVlsFgR9YB7qiI9L0hs=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wZSdcekmOvoFJvTqmiDNCdl5Hto=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wZeFMwK8WpVQTmwIOzA9O6Niw+c=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wfpRW2oegYlg2QzvHbrp4k7otI8=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/wvhPBzW0Tm7gOLAenJkLhFVQdaU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/ydiRzhdjVkbNDF3WO3iSnDzqfOM=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yredDrD0UVFdR69gTD50FPDNXC4=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/zlY9t8+Modd6MiTfHDix_RkP9PU=" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-as/values-as.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+es+419/values-b+es+419.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rXC/values-en-rXC.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h320dp-port-v13/values-h320dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h360dp-land-v13/values-h360dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-land-v13/values-h480dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h550dp-port-v13/values-h550dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldrtl-v17/values-ldrtl-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-or/values-or.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v28/values-v28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v31/values-v31.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w1240dp-v13/values-w1240dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w320dp-land-v13/values-w320dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-port-v13/values-w360dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w480dp-port-v13/values-w480dp-port-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-land-v13/values-w600dp-land-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_login2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/partial_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/javaResources0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-w1240dp-v13/values-w1240dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/activity_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/activity_login2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/activity_profil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/incremental/packageDebugResources/stripped.dir/layout/partial_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/ActivityDashboardBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/ActivityLogin2Binding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/ActivityMainBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/ActivityProfilBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/ActivityRegisterBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/NotificationBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/javac/debug/classes/com/example/capstone/databinding/PartialDashboardBinding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/local_only_symbol_list/debug/R-def.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_java_res/debug/base.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable-v24_ic_launcher_foreground.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_backgroun_profil.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_bg_color.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_circle_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_custom_btn.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_custom_input.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_ic_money_svgrepo_com.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_login_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/drawable_register_background.png.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_activity_dashboard.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_activity_login2.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_activity_profil.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_activity_register.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_notification.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/layout_partial_dashboard.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-af_values-af.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-am_values-am.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ar_values-ar.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-as_values-as.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-az_values-az.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-b+es+419_values-b+es+419.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-b+sr+Latn_values-b+sr+Latn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-be_values-be.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-bg_values-bg.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-bn_values-bn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-bs_values-bs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ca_values-ca.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-cs_values-cs.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-da_values-da.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-de_values-de.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-el_values-el.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-en-rAU_values-en-rAU.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-en-rCA_values-en-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-en-rGB_values-en-rGB.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-en-rIN_values-en-rIN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-en-rXC_values-en-rXC.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-es-rUS_values-es-rUS.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-es_values-es.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-et_values-et.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-eu_values-eu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-fa_values-fa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-fi_values-fi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-fr-rCA_values-fr-rCA.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-fr_values-fr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-gl_values-gl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-gu_values-gu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-h320dp-port-v13_values-h320dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-h360dp-land-v13_values-h360dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-h480dp-land-v13_values-h480dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-h550dp-port-v13_values-h550dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-h720dp-v13_values-h720dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-hdpi-v4_values-hdpi-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-hi_values-hi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-hr_values-hr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-hu_values-hu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-hy_values-hy.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-in_values-in.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-is_values-is.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-it_values-it.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-iw_values-iw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ja_values-ja.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ka_values-ka.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-kk_values-kk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-km_values-km.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-kn_values-kn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ko_values-ko.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ky_values-ky.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-land_values-land.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-large-v4_values-large-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ldltr-v21_values-ldltr-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ldrtl-v17_values-ldrtl-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-lo_values-lo.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-lt_values-lt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-lv_values-lv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-mk_values-mk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ml_values-ml.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-mn_values-mn.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-mr_values-mr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ms_values-ms.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-my_values-my.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-nb_values-nb.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ne_values-ne.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-night-v8_values-night-v8.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-nl_values-nl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-or_values-or.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-pa_values-pa.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-pl_values-pl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-port_values-port.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-pt-rBR_values-pt-rBR.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-pt-rPT_values-pt-rPT.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-pt_values-pt.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ro_values-ro.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ru_values-ru.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-si_values-si.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sk_values-sk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sl_values-sl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-small-v4_values-small-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sq_values-sq.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sr_values-sr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sv_values-sv.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sw600dp-v13_values-sw600dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-sw_values-sw.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ta_values-ta.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-te_values-te.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-th_values-th.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-tl_values-tl.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-tr_values-tr.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-uk_values-uk.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-ur_values-ur.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-uz_values-uz.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v16_values-v16.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v17_values-v17.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v18_values-v18.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v21_values-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v22_values-v22.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v23_values-v23.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v24_values-v24.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v25_values-v25.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v26_values-v26.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v28_values-v28.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-v31_values-v31.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-vi_values-vi.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w1240dp-v13_values-w1240dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w320dp-land-v13_values-w320dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w360dp-port-v13_values-w360dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w480dp-port-v13_values-w480dp-port-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w600dp-land-v13_values-w600dp-land-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-w600dp-v13_values-w600dp-v13.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-watch-v20_values-watch-v20.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-watch-v21_values-watch-v21.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-xlarge-v4_values-xlarge-v4.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-zh-rCN_values-zh-rCN.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-zh-rHK_values-zh-rHK.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-zh-rTW_values-zh-rTW.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values-zu_values-zu.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res/debug/values_values.arsc.flat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-af.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-am.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-as.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-az.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+es+419.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-b+sr+Latn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bg.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-bs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-cs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-da.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-el.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rAU.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rGB.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rIN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-en-rXC.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es-rUS.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-et.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-eu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr-rCA.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-gu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h320dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h360dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h480dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h550dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-h720dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hdpi-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-hy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-in.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-is.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-it.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-iw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ja.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ka.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-km.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-kn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ko.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ky.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-land.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-large-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ldltr-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ldrtl-v17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-lv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mn.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-mr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-my.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ne.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-nl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-or.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pa.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-port.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rBR.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt-rPT.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-pt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ro.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ru.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-si.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-small-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sq.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sv.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-sw600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ta.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-te.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-th.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tl.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-tr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-ur.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-uz.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v16.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v18.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v22.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v23.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v28.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-v31.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-vi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w1240dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w320dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w360dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w480dp-port-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w600dp-land-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-w600dp-v13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v20.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-watch-v21.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-xlarge-v4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rCN.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rHK.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zh-rTW.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-zu.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/merged_res_blame_folder/debug/out/single/layout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/navigation_json/debug/navigation.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_manifests/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/backgroun_profil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/bg_color.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/circle_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/custom_btn.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/custom_input.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/ic_money_svgrepo_com.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/login_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/drawable/register_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/activity_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/activity_login2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/activity_profil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/activity_register.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/notification.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/layout/partial_dashboard.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-hdpi-v4/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-mdpi-v4/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xxhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/mipmap-xxxhdpi-v4/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/values-land/values-land.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/values-night-v8/values-night-v8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/values-w1240dp-v13/values-w1240dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/values-w600dp-v13/values-w600dp-v13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/processed_res/debug/out/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/403305e6a4a92da8de3bf7d3cc0a307caa486d83973deb813487c085b1d3d9f6_5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/API/APIConfig$Companion.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/API/APIConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/API/APIService.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/API/User.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/BuildConfig.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/DashboardActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/FirebaseMessaging$Companion.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/FirebaseMessaging.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/FirebaseMessagingKt.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/LoginActivity$Companion.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/LoginActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/MainActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/MainActivityKt.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/ProfilActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/RegisterActivity.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/ActivityDashboardBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/ActivityLogin2Binding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/ActivityMainBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/ActivityProfilBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/ActivityRegisterBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/NotificationBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/capstone/databinding/PartialDashboardBinding.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/submisi1bfaa/data/Users$Creator.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/project_dex_archive/debug/out/com/example/submisi1bfaa/data/Users.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/signing_config_versions/debug/signing-config-versions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/stable_resource_ids_file/debug/stableIds.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-attributes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/constants.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/package-parts.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/cacheable/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/kotlin/compileDebugKotlin/localstate/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/META-INF/app_debug.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/API/APIConfig$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/API/APIConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/API/APIService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/API/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/DashboardActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/FirebaseMessaging$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/FirebaseMessaging.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/FirebaseMessagingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/LoginActivity$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/LoginActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/MainActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/MainActivityKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/ProfilActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/capstone/RegisterActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/submisi1bfaa/data/Users$Creator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/app/build/tmp/kotlin-classes/debug/com/example/submisi1bfaa/data/Users.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Capstone/local.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\anand\.android\avd\PAB_ADV.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Vepay-Go-MD" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="resourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0acca33f-799c-4e7c-83ba-cfb1ab7abfae" />
+        <option name="url" value="https://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@github.com/rxdz0/Capstone.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ALIR4872nMV2rStsyQiai9Ydlm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anand\AndroidStudioProjects\VepayGoMD\app\src\main\res\drawable-v24" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.example.vepay_go_md" />
+    </key>
+    <key name="android.template.1383501394">
+      <recent name="com.example.vepay_go_md" />
+      <recent name="com.example.vepay_go_md.Data" />
+    </key>
+    <key name="android.template.-1795889071">
+      <recent name="com.example.vepay_go_md" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Vepay-Go-MD.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a44747a4-0595-46f8-b24c-bc2b33776d5a" name="Changes" comment="" />
+      <created>1654782426338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654782426338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
