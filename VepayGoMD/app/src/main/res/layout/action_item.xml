@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/ibProfil"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="12dp"
+        android:background="@drawable/circle_bg"
+        android:src="@drawable/ic_user_svgrepo_com"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:onClick="toProfile"
+        ></ImageButton>
+
+
+    <TextView
+        android:id="@+id/tvProfil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:text="Profil"
+        android:textColor="@color/black"
+
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/ibProfil"
+        app:layout_constraintStart_toStartOf="@+id/ibProfil"
+        app:layout_constraintTop_toBottomOf="@id/ibProfil"></TextView>
+
+    <TextView
+        android:id="@+id/tvKendaraan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="12dp"
+        android:text="Daftar Kendaraan"
+        android:textColor="@color/black"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/imageButton"
+        app:layout_constraintStart_toStartOf="@+id/imageButton"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton"></TextView>
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginStart="44dp"
+        android:background="@drawable/circle_bg"
+        android:src="@drawable/ic_form_svgrepo_com"
+        app:layout_constraintStart_toEndOf="@+id/ibProfil"
+        app:layout_constraintTop_toTopOf="parent"
+        android:onClick="toKendaraan"
+        ></ImageButton>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

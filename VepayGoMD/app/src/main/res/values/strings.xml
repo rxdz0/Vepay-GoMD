@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Vepay-Go-MD</string>
+    <string name="prompt_email">email</string>
+    <string name="prompt_password">password</string>
+    <string name="action_plate">plate</string>
+    <string name="sign_in">Login</string>
+    <string name="not_registered">belum punya akun?<b>SignUp</b></string>
+    <string name="regis">Register</string>
+    <string name="msg_token_fmt" translatable="false">%s</string>
+    <string name="your_balance"> Saldo anda </string>
+</resources>

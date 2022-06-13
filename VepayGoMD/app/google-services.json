@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "414238140587",
+    "firebase_url": "https://vepay-go-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "vepay-go",
+    "storage_bucket": "vepay-go.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414238140587:android:9fb9066bf681dd8ad5efee",
+        "android_client_info": {
+          "package_name": "com.example.capstone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414238140587-fdc56cage344r41n9qnkahp315vm1un5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstone",
+            "certificate_hash": "f1e5551bee875a981b0baa7424256760c7a462bd"
+          }
+        },
+        {
+          "client_id": "414238140587-e754apu2qqlealkj3rho845s1emp5lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDO4ZjzfOG6_GtqCsOU857LhneYvu150"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414238140587-e754apu2qqlealkj3rho845s1emp5lvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414238140587:android:a0b982a693a3c94cd5efee",
+        "android_client_info": {
+          "package_name": "com.example.vepay_go_md"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414238140587-e754apu2qqlealkj3rho845s1emp5lvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeDO4ZjzfOG6_GtqCsOU857LhneYvu150"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414238140587-e754apu2qqlealkj3rho845s1emp5lvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

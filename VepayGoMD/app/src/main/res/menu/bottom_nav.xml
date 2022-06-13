@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuHome"
+        android:title="Home"
+        android:icon="@drawable/ic_icons8_home_64"/>
+
+    <!--<item
+        android:id="@+id/menuHistroy"
+        android:title="History"
+        android:icon="@drawable/ic_document_svgrepo_com"/>-->
+
+    <item
+        android:id="@+id/menuKendaraan"
+        android:title="Daftar Kendaraan"
+        android:icon="@drawable/ic_form_svgrepo_com"/>
+
+    <item
+        android:id="@+id/menuProfil"
+        android:title="Profil"
+        android:icon="@drawable/ic_account_svgrepo_com"/>
+
+</menu>
